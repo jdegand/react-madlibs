@@ -15,6 +15,8 @@
 
 ## Overview
 
+[Live Link](https://jdegand.github.io/react-madlibs)
+
 ![](react-madlibs-homepage.png)
 
 ![](react-madlibs-scunthorpe.png)
